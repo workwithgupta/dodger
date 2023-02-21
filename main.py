@@ -4,6 +4,7 @@ import random
 # Initialize Pygame
 pygame.init()
 
+
 # Set the window size
 window_width = 800
 window_height = 600
