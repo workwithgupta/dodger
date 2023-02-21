@@ -19,7 +19,7 @@ pygame.display.set_caption("Dodger")
 clock = pygame.time.Clock()
 
 # Define colors
-white = (255, 255, 255)
+white = (155, 225, 225)
 black = (0, 0, 0)
 red = (255, 0, 0)
 
